@@ -10,6 +10,10 @@ class ExampleTest {
         void exampleTest1() {
             Assertions.assertTrue(3>2);
 }
+    @Test
+    void exampleTest2() {
+        Assertions.assertTrue(5>2);
+    }
 }
 
 
