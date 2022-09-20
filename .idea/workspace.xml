@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bd3beca-d923-4704-acfd-d2a5be211fe0" name="Changes" comment="added second test new">
-      <change beforePath="$PROJECT_DIR$/src/test/java/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExampleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bd3beca-d923-4704-acfd-d2a5be211fe0" name="Changes" comment="added third test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663684224748</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added third test">
+      <created>1663684492763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663684492763</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +222,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added second test" />
     <MESSAGE value="added second test new" />
-    <option name="LAST_COMMIT_MESSAGE" value="added second test new" />
+    <MESSAGE value="added third test" />
+    <option name="LAST_COMMIT_MESSAGE" value="added third test" />
   </component>
 </project>
