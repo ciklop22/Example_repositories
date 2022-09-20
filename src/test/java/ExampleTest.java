@@ -9,7 +9,7 @@ class ExampleTest {
         Assertions.assertTrue( new Random().nextInt()>1);
     }
         @Test
-        void exampleTest1() {
+        void exampleTest2() {
             Assertions.assertTrue(new Random().nextInt()>2);
     }
 
