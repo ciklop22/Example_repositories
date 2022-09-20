@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bd3beca-d923-4704-acfd-d2a5be211fe0" name="Changes" comment="added third test">
-      <change beforePath="$PROJECT_DIR$/src/test/java/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExampleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7bd3beca-d923-4704-acfd-d2a5be211fe0" name="Changes" comment="use random" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -217,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663684492763</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="use random">
+      <created>1663688974409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663688974409</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +239,7 @@
     <MESSAGE value="added second test" />
     <MESSAGE value="added second test new" />
     <MESSAGE value="added third test" />
-    <option name="LAST_COMMIT_MESSAGE" value="added third test" />
+    <MESSAGE value="use random" />
+    <option name="LAST_COMMIT_MESSAGE" value="use random" />
   </component>
 </project>
