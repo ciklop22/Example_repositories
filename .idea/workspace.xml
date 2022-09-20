@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bd3beca-d923-4704-acfd-d2a5be211fe0" name="Changes" comment="added third test" />
+    <list default="true" id="7bd3beca-d923-4704-acfd-d2a5be211fe0" name="Changes" comment="added third test">
+      <change beforePath="$PROJECT_DIR$/src/test/java/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExampleTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,7 +47,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.ExampleTest.exampleTest2">
+  <component name="RunManager" selected="Gradle.ExampleTest.exampleTest1">
     <configuration name="ExampleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -153,10 +165,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ExampleTest.exampleTest2" />
         <item itemvalue="Gradle.ExampleTest.exampleTest1" />
-        <item itemvalue="Gradle.ExampleTest" />
         <item itemvalue="Gradle.ExampleTest.exampleTest0" />
+        <item itemvalue="Gradle.ExampleTest" />
+        <item itemvalue="Gradle.ExampleTest.exampleTest2" />
         <item itemvalue="Gradle.ExampleTest.exampleTest" />
       </list>
     </recent_temporary>
