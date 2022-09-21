@@ -6,7 +6,7 @@ import java.util.Random;
 class ExampleTest {
     @Test
     void exampleTest0() {
-        Assertions.assertTrue( new Random().nextInt()>10);
+        Assertions.assertFalse( new Random().nextInt()<=10);
     }
     @Test
     void exampleTest1() {
