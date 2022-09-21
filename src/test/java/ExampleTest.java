@@ -5,8 +5,12 @@ import java.util.Random;
 
 class ExampleTest {
     @Test
-    void exampleTest() {
-        Assertions.assertTrue( new Random().nextInt()>1);
+    void exampleTest0() {
+        Assertions.assertTrue( 2>1);
+    }
+    @Test
+    void exampleTest1() {
+        Assertions.assertTrue( 3>2);
     }
 
 }
