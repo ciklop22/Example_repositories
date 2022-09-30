@@ -1,19 +1,26 @@
+import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import java.util.Random;
+import static com.codeborne.selenide.Condition.text;
+import static com.codeborne.selenide.Configuration.holdBrowserOpen;
+import static com.codeborne.selenide.Selenide.$;
+import static com.codeborne.selenide.Selenide.open;
 
-class ExampleTest {
+public class ExampleTest {
+
     @Test
-    void exampleTest0() {
-        Assertions.assertFalse( new Random().nextInt()<=10);
-    }
-    @Test
-    void exampleTest1() {
-        Assertions.assertTrue( new Random().nextInt()>20);
+    void successfulSearchTest() {
+        holdBrowserOpen = false;
+        Configuration.baseUrl = "sads,rgf";
+        open("https://www.google.com/");
+        $("#W0wltc").click();
+        $("[name=q]").setValue("selenide").pressEnter();
+        $("#search").shouldHave(text("https://selenide.org"));
     }
 
+    @Test
+    void textIntuptest() {
+        Assertions.assertTrue(10>1);
+    }
 }
-
-
-
